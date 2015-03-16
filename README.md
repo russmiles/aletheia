@@ -1,0 +1,2 @@
+# aletheia
+Golang Event Sourcing
